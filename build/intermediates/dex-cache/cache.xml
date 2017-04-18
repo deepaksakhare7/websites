@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepak\.android\build-cache\7acf77030e18be834085313cc8aada7bbcdd1c89\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="F:\dpk_docs\ongoing\websites\SearchNearByPlaces\app\build\intermediates\pre-dexed\debug\classes_5c0c638ea65648c8d5dfed3b1446b2732600f3e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepak\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="F:\dpk_docs\ongoing\websites\SearchNearByPlaces\app\build\intermediates\pre-dexed\debug\gson-2.7_dc35bbeae5da9a0f2a4d52399d5a3919a592f605.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepak\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="F:\dpk_docs\ongoing\websites\SearchNearByPlaces\app\build\intermediates\pre-dexed\debug\okio-1.8.0_49ae68cefaa14ebc24ad61ba5ca042aba12a1e97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepak\.android\build-cache\5578c909c1f6d501cbf7839ad52bffd7ec013035\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="F:\dpk_docs\ongoing\websites\SearchNearByPlaces\app\build\intermediates\pre-dexed\debug\classes_6eb0a174d5baf8453450f9daf003174118bd01b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepak\.android\build-cache\7fba3cd592d51de338b0a64f3adcec318edab2c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="F:\dpk_docs\ongoing\websites\SearchNearByPlaces\app\build\intermediates\pre-dexed\debug\classes_8f8ef454823e99f33a5edae649df2a3c6f9f91f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepak\.android\build-cache\6dc5af2de9c973b30c5465bd809f3b2e15dbc108\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="F:\dpk_docs\ongoing\websites\SearchNearByPlaces\app\build\intermediates\pre-dexed\debug\classes_4c1b4f313b08cf9d01841b2ac135581afbec0f86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepak\.android\build-cache\0fbf1580ff8da583e303d70cf3e006b803adad6f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="F:\dpk_docs\ongoing\websites\SearchNearByPlaces\app\build\intermediates\pre-dexed\debug\classes_4b8ff7b8390bcd8257485f90dea524ca2e50b6e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepak\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="F:\dpk_docs\ongoing\websites\SearchNearByPlaces\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_bc693e285d9684b01392235a5e8f3ad80e15a3f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepak\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.1\constraint-layout-solver-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="F:\dpk_docs\ongoing\websites\SearchNearByPlaces\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.1_b50729360032492b39e3e8903b3c926dd9fdbd92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepak\.android\build-cache\41b85e7f41794760111c3f2b26d638446234970d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="F:\dpk_docs\ongoing\websites\SearchNearByPlaces\app\build\intermediates\pre-dexed\debug\classes_9983d85a62a9450d12a04f01bb6c0d0a95984581.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepak\.android\build-cache\9eb08cd1e4ead86ea34fe582dfdc2db0ddcef711\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="F:\dpk_docs\ongoing\websites\SearchNearByPlaces\app\build\intermediates\pre-dexed\debug\classes_79702a65f36a97cc3da9d4eda9f7e94ec842fbb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepak\.android\build-cache\89befe7aac944663f4fa0bb1bafb40a95270dba1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="F:\dpk_docs\ongoing\websites\SearchNearByPlaces\app\build\intermediates\pre-dexed\debug\classes_b54fa9b79c6b13c0dc62c01cd9945e7a2314d339.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepak\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="F:\dpk_docs\ongoing\websites\SearchNearByPlaces\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_8fc9847c3e0d5c44dec7585fccf589faa0b5dd46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepak\.android\build-cache\1500293b5731f24d541a74ee9832c2f407c74a25\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="F:\dpk_docs\ongoing\websites\SearchNearByPlaces\app\build\intermediates\pre-dexed\debug\classes_9b7969b68684bdf8f77cf0fb946625c7309d71e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepak\.android\build-cache\923e63d2a94ab3a5085d47e0c2f0eec472b3014d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="F:\dpk_docs\ongoing\websites\SearchNearByPlaces\app\build\intermediates\pre-dexed\debug\classes_2e3492fa44d9c04455696e999a847e0f82dfa59f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepak\.android\build-cache\d26aa3af21bf16835e156f8dd28ef22bae1a0bab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="F:\dpk_docs\ongoing\websites\SearchNearByPlaces\app\build\intermediates\pre-dexed\debug\classes_d887acd2e5166befc82aab415609a11fc4b0ca06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepak\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="F:\dpk_docs\ongoing\websites\SearchNearByPlaces\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_2483b383c3e44dec4f50218c610d2da72b66c0aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepak\.android\build-cache\d49e9d141ce2e64f151de21b4ec5f666a28f4bd6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="F:\dpk_docs\ongoing\websites\SearchNearByPlaces\app\build\intermediates\pre-dexed\debug\classes_810ac039b58515c0d617861be66f3cc2fd76e929.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepak\.android\build-cache\a7d765922b5a3a6cdced7fc35fd121bf05f62299\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\dpk_docs\ongoing\websites\SearchNearByPlaces\app\build\intermediates\pre-dexed\debug\classes_93e5775318371797ed83ea5dac539bc89fe60287.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepak\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="F:\dpk_docs\ongoing\websites\SearchNearByPlaces\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_41f8238d015983c0119c4c7c52ee4972e9c1c92c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepak\.android\build-cache\a97ca2af8ef46c39fd31fd4796c5fb13384fc8af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="F:\dpk_docs\ongoing\websites\SearchNearByPlaces\app\build\intermediates\pre-dexed\debug\classes_deb8eef76e30c9b41ad5b4abb8fc37bae21495e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepak\.android\build-cache\3ecaf766d7f233e4de6c90c3fa9e7efd59421371\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="F:\dpk_docs\ongoing\websites\SearchNearByPlaces\app\build\intermediates\pre-dexed\debug\classes_03a8b7bdc9ce328cc0fa99e920904c80dc28ea9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepak\.android\build-cache\6a819e7240fc85238ea5d74522fc8c725164cfa5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="F:\dpk_docs\ongoing\websites\SearchNearByPlaces\app\build\intermediates\pre-dexed\debug\classes_b245cd59ae15fdb8b70c1dcec15b133ef36e2b53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepak\.android\build-cache\630b157f69e520286d1ba92060149c3ac5676e34\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="F:\dpk_docs\ongoing\websites\SearchNearByPlaces\app\build\intermediates\pre-dexed\debug\classes_49a1bc3d25e396f7c0a9daa1911479f3c0526ab4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\deepak\.android\build-cache\8a8137c44a1799fb0c759c548658043660e7ebdf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="F:\dpk_docs\ongoing\websites\SearchNearByPlaces\app\build\intermediates\pre-dexed\debug\classes_f86dd91f626f020b667b2ef995480e6f87ffa71f.jar" />
+    </item>
+
+</items>

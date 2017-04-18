@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SearchNearByPlaces</string>
+    <string name="places_key">AIzaSyCx2ZLfmYQM-5d3BsYAL4SmtWrv4jbh83A</string>
+    <string name="prompt_location">Enter Location</string>
+    <string name="action_search">Search</string>
+    <string name="list_txt">View list</string>
+    <string name="radio_favourite">Favourite</string>
+    <string name="radio_current">Current</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+
+</resources>
